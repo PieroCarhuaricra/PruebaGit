@@ -1,4 +1,6 @@
 nombre=input("ingrese nombre: ")
+apellido=input("ingrese apellido: ")
 edad=int(input("ingrese su edad: "))
 print("su nombre es: ",nombre)
+print("su Apellido es: ",apellido)
 print("su edad es: ",edad)
